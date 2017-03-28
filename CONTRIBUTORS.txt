@@ -1,0 +1,5 @@
+This file contains a list of people who have made large contributions to the
+public version of Generic Headers.
+
+Original Generic Headers design and implementation:
+  Leo <leo@nullptr.com.cn>
